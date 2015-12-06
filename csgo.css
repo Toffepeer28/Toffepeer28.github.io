@@ -1,0 +1,63 @@
+body {
+    background-image: url("http://foto.cstrike.it/di/UV59/cs-go-defuser.jpg");
+    background-color: #cccccc;
+background-repeat:no-repeat;
+}
+
+body a {font-family: "Arial", Arial, sans-serif;
+font-weight: bold;
+position: relative;
+    left: 30px;
+text-decoration: none;
+  margin-top: 4%;
+color: #73A8BA;}
+
+.kikker {
+  color: #73A8BA;
+  border: 1px solid white;
+  background-color: white;
+  margin-top: 4%;
+  padding-left: 2px;
+  padding-right: 2px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  width: 400px;
+  border-radius: 50px;
+}
+
+.kwal {
+  color: #73A8BA;
+  border: 1px solid white;
+  background-color: white;
+  margin-top: 4%;
+  padding-left: 2px;
+  padding-right: 50px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  width: 400px;
+  border-radius: 50px;
+  overflow: hidden;
+}
+
+p {
+    font-family: "Arial", Arial, sans-serif;
+    font-weight: bold;
+    position: relative;
+        left: 30px;
+}
+
+img {
+  float: right;
+  margin-right: 200px;
+  position: relative;
+}
+
+a {
+
+  font-family: "Arial", Arial, sans-serif;
+  font-weight: bold;
+  position: relative;
+      left: 30px;
+  text-decoration: none;
+  color: #73A8BA;
+}
